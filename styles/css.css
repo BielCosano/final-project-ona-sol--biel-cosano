@@ -90,3 +90,19 @@
 	text-transform: none;
 }
 
+.flex {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	gap: 25px;
+}
+
+.total {
+	gap: 0px;
+}
+
+.cangrinaje-img {
+	height: 270px;
+	width: 270px;
+	gap: 0px;
+}
