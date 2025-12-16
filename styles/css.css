@@ -1,0 +1,91 @@
+:root {
+	--color-vermell: rgba(254,70,53,1);
+	--color-blanc: rgba(239,239,235,1);
+	--color-negre: rgba(40,38,38,1);
+}
+.canco-gran {
+	font-size: 140px;
+	font-family: Gotham;
+	font-weight: 900;
+	font-style: normal;
+	line-height: 85%;
+	letter-spacing: -0.1em;
+	text-decoration: none;
+	text-transform: none;
+}
+.escoltes-escollit {
+	font-size: 200px;
+	font-family: Gotham;
+	font-style: italic;
+	font-weight: 400;
+	line-height: 85%;
+	text-decoration: none;
+	text-transform: none;
+}
+.escoltes-altre {
+	font-size: 160px;
+	font-family: Gotham;
+	font-style: italic;
+	font-weight: 400;
+	line-height: 85%;
+	text-decoration: none;
+	text-transform: none;
+}
+.buto {
+	font-size: 64px;
+	font-family: Gotham;
+	line-height: 85%;
+	letter-spacing: 0.05em;
+	text-decoration: none;
+	text-transform: none;
+}
+.artista-gran {
+	font-size: 64px;
+	font-family: Gotham;
+	font-style: italic;
+	font-weight: 300;
+	line-height: 85%;
+	letter-spacing: -0.1em;
+	text-decoration: none;
+	text-transform: none;
+}
+.main {
+	font-size: 64px;
+	font-family: Gotham;
+	font-style: italic;
+	font-weight: 500;
+	line-height: 100%;
+	letter-spacing: 0.1em;
+	text-decoration: none;
+	text-transform: none;
+}
+.puntuacio {
+	font-size: 36px;
+	font-family: Gotham;
+	font-style: italic;
+	font-weight: 500;
+	line-height: 100%;
+	letter-spacing: 0.1em;
+	text-decoration: none;
+	text-transform: none;
+}
+.canco-petita {
+	font-size: 96px;
+	font-family: Gotham;
+	font-weight: 900;
+	font-style: normal;
+	line-height: 85%;
+	letter-spacing: -0.1em;
+	text-decoration: none;
+	text-transform: none;
+}
+.artista-petit {
+	font-size: 48px;
+	font-family: Gotham;
+	font-style: italic;
+	font-weight: 300;
+	line-height: 85%;
+	letter-spacing: -0.1em;
+	text-decoration: none;
+	text-transform: none;
+}
